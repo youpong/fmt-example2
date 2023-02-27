@@ -5,8 +5,8 @@ It is assumed that the fmt library is installed on your system.
 
 ## Dependencies
 
-cmake 3.22 or later
-fmt 9.1.0 or later
+* cmake 3.22 or later
+* fmt 9.1.0 or later
 
 ## How to Build
 
